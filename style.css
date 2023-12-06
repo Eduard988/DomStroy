@@ -1,0 +1,22 @@
+.first-row {
+    display: flex;
+    margin: 5px 71px 20px 71px;
+    justify-content: space-between;
+}
+.logotype {
+    display: flex;
+    flex-direction: column;
+}
+.telephone {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.telephone__item {
+    color: #212864;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+}
